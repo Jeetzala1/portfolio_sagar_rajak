@@ -1,6 +1,6 @@
-﻿
 
-// import resume from "..assets/sagarrajak_resume.pdf";
+
+// import resume from "..assets/JeetZala_resume.pdf";
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { IoNewspaperOutline } from "react-icons/io5";
 import { RiTwitterXLine } from 'react-icons/ri';
@@ -18,7 +18,7 @@ function SocialMediaLinks() {
       <a href="https://twitter.com/Sagar00043" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
         <RiTwitterXLine />
       </a>
-      <a href="https://www.instagram.com/sagarrajak003" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
+      <a href="https://www.instagram.com/JeetZala003" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
         <FaInstagram />
       </a>
 

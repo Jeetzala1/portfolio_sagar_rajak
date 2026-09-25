@@ -1,4 +1,4 @@
-﻿import { motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 import {
   Check,
   Copy,
@@ -42,7 +42,7 @@ const socialItems = [
     icon: <FaInstagram className="text-white text-xl" />,
     color: 'pink',
     label: 'Instagram',
-    url: 'https://www.instagram.com/sagarrajak003'
+    url: 'https://www.instagram.com/JeetZala003'
   },
   {
     icon: <SiLeetcode className="text-white text-xl" />,

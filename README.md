@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi ðŸ‘‹, I'm sagar rajak...</h1>
+<h1 align="center">Hi ðŸ‘‹, I'm Jeet Zala...</h1>
 			Welcome to my portfolio website! This is my first portfolio project.    
 			project showcases my professional journey, achievements, projects, and more till now since i started doing coding.  
 			website is  Built with React.js, Tailwind CSS, and Framer Motion,html,javascript.. 
@@ -39,9 +39,9 @@ npm or yarn</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagar00043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar00043" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar rajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar rajak" height="30" width="40" /></a>
-<a href="https://fb.com/sagarrajak003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarrajak003" height="30" width="40" /></a>
-<a href="https://instagram.com/sagarrajak003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagarrajak003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jeet Zala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeet Zala" height="30" width="40" /></a>
+<a href="https://fb.com/JeetZala003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JeetZala003" height="30" width="40" /></a>
+<a href="https://instagram.com/JeetZala003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JeetZala003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Jeetzala1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jeetzala1" height="30" width="40" /></a>
 </p>
 
