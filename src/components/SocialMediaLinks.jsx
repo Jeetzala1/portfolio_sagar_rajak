@@ -1,4 +1,4 @@
-
+﻿
 
 // import resume from "..assets/sagarrajak_resume.pdf";
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
@@ -9,10 +9,10 @@ import { SiLeetcode } from "react-icons/si";
 function SocialMediaLinks() {
   return (
     <div className='m-6 h-auto text-2xl flex gap-4 justify-center items-center'>
-      <a href="https://www.linkedin.com/in/sagar-rajak-4b970b290/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
+      <a href="https://www.linkedin.com/in/jeet-zala-4b970b290/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
         <FaLinkedin />
       </a>
-      <a href="https://github.com/sagarrajak245" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
+      <a href="https://github.com/Jeetzala1" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
         <FaGithub />
       </a>
       <a href="https://twitter.com/Sagar00043" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300">
@@ -22,7 +22,7 @@ function SocialMediaLinks() {
         <FaInstagram />
       </a>
 
-      <a href=" https://leetcode.com/u/sagarrajak245/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300" >
+      <a href=" https://leetcode.com/u/Jeetzala1/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-400 transition-colors duration-300" >
 
         <SiLeetcode />
       </a>

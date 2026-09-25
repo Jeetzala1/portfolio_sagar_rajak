@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+﻿import { motion } from 'framer-motion';
 import {
   Check,
   Copy,
@@ -24,13 +24,13 @@ const socialItems = [
     icon: <FaLinkedin className="text-white text-xl" />,
     color: 'blue',
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/sagar-rajak-4b970b290/'
+    url: 'https://www.linkedin.com/in/jeet-zala-4b970b290/'
   },
   {
     icon: <FaGithub className="text-white text-xl" />,
     color: 'indigo',
     label: 'GitHub',
-    url: 'https://github.com/sagarrajak245'
+    url: 'https://github.com/Jeetzala1'
   },
   {
     icon: <RiTwitterXLine className="text-white text-xl" />,
@@ -48,7 +48,7 @@ const socialItems = [
     icon: <SiLeetcode className="text-white text-xl" />,
     color: 'orange',
     label: 'LeetCode',
-    url: 'https://leetcode.com/u/sagarrajak245/'
+    url: 'https://leetcode.com/u/Jeetzala1/'
   },
   {
     icon: <IoNewspaperOutline className="text-white text-xl" />,

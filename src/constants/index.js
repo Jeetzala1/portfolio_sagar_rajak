@@ -1,4 +1,4 @@
-import pro8 from "../assets/projects/aqi.png";
+﻿import pro8 from "../assets/projects/aqi.png";
 import pro7 from "../assets/projects/crew_ai.png";
 import dashboard from "../assets/projects/dashboard.png";
 import fraud from "../assets/projects/fraud.png";
@@ -15,11 +15,11 @@ import yolo from "../assets/projects/yolo.png";
 
 export const HERO_CONTENT = `I'm a passionate Full-Stack Developer with expertise in building scalable webapps. I also explore Machine Learning and AI agents to craft intelligent, data-driven solutions. I thrive on turning ideas into impactful digital experiences`;
 
-export const ABOUT_TEXT = ` Hi, I'm Sagar Rajak, a third-year B.E. student in Artificial Intelligence and Data Science at VESIT, Mumbai with Current Cgpa of 9.2 . I'm a passionate Full-Stack Developer and AI enthusiast with a strong foundation in MERN stack, Flutter, and modern database systems like MongoDB, MySQL, and PostgreSQL.
+export const ABOUT_TEXT = ` Hi, I'm Jeet Zala, a third-year B.E. student in Artificial Intelligence and Data Science at VESIT, Mumbai with Current Cgpa of 9.2 . I'm a passionate Full-Stack Developer and AI enthusiast with a strong foundation in MERN stack, Flutter, and modern database systems like MongoDB, MySQL, and PostgreSQL.
 
 Beyond full-stack development, I have hands-on experience in Machine Learning, Time Series Analysis, and LLM-powered applications. I've built intelligent systems using CrewAI, LangChain, and Flask-based LLM backends to automate workflows like research, writing, and social media post generation.
 
-I've conducted ML workshops, mentored peers, and delivered practical projects—from classifying Spotify hits with logistic regression to building GDP predictors using clustering and regression models. I actively explore how AI agents and LLMs can solve real-world challenges and enhance productivity.
+I've conducted ML workshops, mentored peers, and delivered practical projectsâ€”from classifying Spotify hits with logistic regression to building GDP predictors using clustering and regression models. I actively explore how AI agents and LLMs can solve real-world challenges and enhance productivity.
 
 I'm always excited to take on new challenges, collaborate with forward-thinking teams, and contribute to innovative tech solutions that make an impact.`;
 
@@ -79,7 +79,7 @@ export const PROJECTS = [
   {
     title: "Twitter clone web app",
     image: pro1,
-    github: "https://github.com/sagarrajak245/fullstackproject-Twitterclone",
+    github: "https://github.com/Jeetzala1/fullstackproject-Twitterclone",
     description: [
       "Developed a full-stack Twitter clone with React.js for UI.",
       "Implemented login/signup with JWT-based authentication.",
@@ -93,7 +93,7 @@ export const PROJECTS = [
   {
     title: "Expense Tracker App",
     image: pro2,
-    github: "https://github.com/sagarrajak245/flutter_projects/tree/master",
+    github: "https://github.com/Jeetzala1/flutter_projects/tree/master",
     description: [
       "Mobile app to track daily expenses.",
       "Shows monthly spending, total income, and progress tracking.",
@@ -104,7 +104,7 @@ export const PROJECTS = [
   {
     title: "Brainwave AI UI Project",
     image: pro4,
-    github: "https://github.com/sagarrajak245/reactjs_uiproject_brainwave",
+    github: "https://github.com/Jeetzala1/reactjs_uiproject_brainwave",
     description: [
       "Frontend UI project built with React.js and Tailwind CSS.",
       "Designed a futuristic look with responsive design.",
@@ -115,7 +115,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: pro6,
-    github: "https://github.com/sagarrajak245/portfolio_1",
+    github: "https://github.com/Jeetzala1/portfolio_1",
     description: [
       "Personal portfolio website.",
       "Showcases projects, skills, and contact information.",
@@ -126,11 +126,11 @@ export const PROJECTS = [
   {
     title: "GDP Analysis (1960 to 2024)",
     image: pro5,
-    github: "https://github.com/sagarrajak245/ML-project-_4_steps",
+    github: "https://github.com/Jeetzala1/ML-project-_4_steps",
     description: [
-      "Analyzed GDP per capita trends for 180+ countries (1960–2022).",
+      "Analyzed GDP per capita trends for 180+ countries (1960â€“2022).",
       "Predicted 2023 GDP using Linear Regression and Random Forest.",
-      "Evaluated models with MAE, RMSE, and R² score.",
+      "Evaluated models with MAE, RMSE, and RÂ² score.",
       "Clustered countries using K-Means and visualized with PCA.",
       "Conducted GDP trend analysis for India by Prime Ministers.",
       "Created timeline visualizations of India's GDP growth."
@@ -140,7 +140,7 @@ export const PROJECTS = [
   {
     title: "Crew AI Multi-Agent System",
     image: pro7,
-    github: "https://github.com/sagarrajak245/crewai_project",
+    github: "https://github.com/Jeetzala1/crewai_project",
     description: [
       "Developed a multi-agent system using the CrewAI library.",
       "Agents act as researcher, writer, and editor.",
@@ -151,7 +151,7 @@ export const PROJECTS = [
   {
     title: "Air Quality Index (AQI) Prediction System",
     image: pro8,
-    github: "https://github.com/sagarrajak245/AQI_Predictor/tree/main",
+    github: "https://github.com/Jeetzala1/AQI_Predictor/tree/main",
     description: [
       "End-to-end ML-powered web app for real-time AQI prediction.",
       "XGBoost regression model trained in R on historical data.",
@@ -168,9 +168,9 @@ export const PROJECTS = [
     ],
   },
   {
-    title: "Postify – AI-Powered Chrome Extension",
+    title: "Postify â€“ AI-Powered Chrome Extension",
     image: Postify, // Add relevant image import if available
-    github: "https://github.com/sagarrajak245/postify_chrome_extension",
+    github: "https://github.com/Jeetzala1/postify_chrome_extension",
     description: [
       "Developed a productivity-focused Chrome Extension that automates certificate scanning from Gmail.",
       "Parsed course metadata and generated LinkedIn/Twitter posts using GPT-4, Grok, and Gemini.",
@@ -181,7 +181,7 @@ export const PROJECTS = [
   {
     title: "Player Tracking & Re-identification System",
     image: yolo, // Add relevant image import if available
-    github: "https://github.com/sagarrajak245/computer_vision_project",
+    github: "https://github.com/Jeetzala1/computer_vision_project",
     description: [
       "Built a sports analytics system to track players in real-time from videos.",
       "Ensured consistent IDs even after players exited and re-entered the frame.",
@@ -192,7 +192,7 @@ export const PROJECTS = [
   {
     title: "Financial Fraud Detection in Transactions",
     image: fraud, // Add relevant image import if available
-    github: "https://github.com/sagarrajak245/Fraud_transaction_detection_in_payment_app",
+    github: "https://github.com/Jeetzala1/Fraud_transaction_detection_in_payment_app",
     description: [
       "Developed a real-time fraud detection system on 6.3M+ transactions with extreme class imbalance.",
       "Used SMOTE for balancing and XGBoost/Random Forest for classification.",
@@ -217,7 +217,7 @@ export const PROJECTS = [
   {
     title: "WebRTC Real-time Object Detection System through Mobile Phones",
     image: webrtc, // Add relevant image import if available
-    github: "https://github.com/sagarrajak245/Real-time-WebRTC-VLM-Multi-Object-Detection",
+    github: "https://github.com/Jeetzala1/Real-time-WebRTC-VLM-Multi-Object-Detection",
     description: [
       "Production-ready system for real-time multi-object detection on live video streams from mobile phones via WebRTC.",
       "Supports dual-mode inference: client-side WASM with YOLOv5n or server-side processing with YOLOv8n.",
@@ -239,7 +239,7 @@ export const PROJECTS = [
 export const CONTACT = {
   Address: "New mumbai, Maharashtra, India.",
   phoneNo: "8669101264 ",
-  email: "sagarrajak245@gmail.com",
+  email: "Jeetzala1@gmail.com",
 };
 
 export const Achi = [
@@ -247,7 +247,7 @@ export const Achi = [
     title: "NVIDIA: Fundamentals of Deep Learning",
     year: "2023",
     certificate: "https://drive.google.com/file/d/1b5GTJIk7YtOARbjzR70SVVo0MvIScKAa/view?usp=sharing",
-    description: "Completed NVIDIA’s foundational course on Deep Learning, covering neural networks, backpropagation, and training techniques."
+    description: "Completed NVIDIAâ€™s foundational course on Deep Learning, covering neural networks, backpropagation, and training techniques."
   },
   {
     title: "NVIDIA: Anomaly Detection",
@@ -259,13 +259,13 @@ export const Achi = [
     title: "MATLAB: Machine Learning",
     year: "2023",
     certificate: "https://drive.google.com/file/d/1IjJwyilrh12g_97X2fBR0moeGJqEKmso/view?usp=sharing",
-    description: "Completed MATLAB’s certification on core machine learning concepts including classification and regression models."
+    description: "Completed MATLABâ€™s certification on core machine learning concepts including classification and regression models."
   },
   {
     title: "MATLAB: Data Visualization",
     year: "2023",
     certificate: "https://drive.google.com/file/d/1bH-est_CXCEc_8z25bK4Dc0B2yVzwgZl/view?usp=sharing",
-    description: "Gained skills in effective data visualization techniques using MATLAB’s graphical libraries and data plotting features."
+    description: "Gained skills in effective data visualization techniques using MATLABâ€™s graphical libraries and data plotting features."
   },
   {
     title: "AWS: Cloud Fundamentals",
@@ -287,24 +287,24 @@ export const Achi = [
   },
   {
     title: "Smart India Hackathon 2024 Finalist",
-    year: "2023–2024",
+    year: "2023â€“2024",
     certificate: "https://drive.google.com/file/d/11joQAOfic0QfkFDkM0eqqHTxXo6_pwed/view?usp=sharing",
-    description: `Finalist at Smart India Hackathon 2024 under the Smart Education theme. Developed "Drona" — a full-fledged LMS platform with AI-powered content generation, roadmap creation, and analytics.`
+    description: `Finalist at Smart India Hackathon 2024 under the Smart Education theme. Developed "Drona" â€” a full-fledged LMS platform with AI-powered content generation, roadmap creation, and analytics.`
   },
   {
-    title: "ATS Best Technical Speaker – Awakening the Scientist",
-    year: "2022–2023",
+    title: "ATS Best Technical Speaker â€“ Awakening the Scientist",
+    year: "2022â€“2023",
     certificate: "https://drive.google.com/file/d/1KnJcGgiWZh6FeI-YHohjEdvRZ6cmK80j/view?usp=sharing",
     description: "Received award for presenting innovative ideas on optical specs and enhancing vision using bionic eye technology."
   },
   {
-    title: "Dalal Street Finalist – Trade Game",
-    year: "2022–2023",
+    title: "Dalal Street Finalist â€“ Trade Game",
+    year: "2022â€“2023",
     certificate: "https://drive.google.com/file/d/1H8eG2mUQ4KQS8k0ov242UcIj3nw_fIOw/view?usp=sharing",
     description: "Secured a top-15 spot nationally in a stock market simulation competition demonstrating analytical and trading skills."
   },
   {
-    title: "MHT-CET State Rank – Top 5000",
+    title: "MHT-CET State Rank â€“ Top 5000",
     year: "2021",
     certificate: "",  // No link available in resume
     description: "Achieved a top 5000 state-level rank among 300,000+ students in the MHT-CET entrance exam for engineering."

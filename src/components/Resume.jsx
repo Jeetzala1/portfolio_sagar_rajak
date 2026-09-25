@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+﻿import { motion } from 'framer-motion';
 import { Download, Eye, FileText } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import GlassCard from '../ui/GlassCard';
@@ -38,7 +38,7 @@ const Resume = () => {
               </div>
 
               <h3 className="text-2xl font-bold text-white mb-4">
-                Sagar Rajak - Resume
+                Jeet Zala - Resume
               </h3>
 
               <p className="text-gray-300 mb-6">

@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+﻿import { motion } from 'framer-motion'
 import portfoliopic from '../assets/sprofile2.png'
 import { HERO_CONTENT } from '../constants/index'
 
@@ -34,7 +34,7 @@ function Hero() {
               animate="visible"
 
               className='pb-16 text-6xl   tracking-tight lg:mt-16
-lg:text-8xl'>Sagar Rajak</motion.h1>
+lg:text-8xl'>Jeet Zala</motion.h1>
 
             <motion.span
               variants={container(0.5)}
